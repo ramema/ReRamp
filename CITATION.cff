@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ReRamp
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Martin
+    family-names: Rameš
+    orcid: 'https://orcid.org/0009-0000-3301-6269'
+    affiliation: >-
+      Czech Technical University in Prague, Faculty of
+      Information Technology
+  - given-names: Pavel
+    family-names: Surynek
+    orcid: 'https://orcid.org/0000-0001-7200-0542'
+    affiliation: >-
+      Czech Technical University in Prague, Faculty of
+      Information Technology
+repository-code: 'https://github.com/ramema/ReRamp'
+license: GPL-3.0
