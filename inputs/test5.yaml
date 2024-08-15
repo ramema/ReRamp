@@ -1,0 +1,15 @@
+building_heights:
+- [0, 0, 0, 0, 0, 0, 0, 0]
+- [0, 0, 0, 3, 0, 0, 0, 0]
+- [0, 0, 0, 3, 0, 0, 0, 0]
+- [0, 3, 3, 3, 3, 3, 3, 0]
+- [0, 0, 0, 3, 0, 0, 0, 0]
+- [0, 0, 0, 3, 0, 0, 0, 0]
+- [0, 0, 0, 3, 0, 0, 0, 0]
+- [0, 0, 0, 0, 0, 0, 0, 0]
+deliver_time: '1'
+entry_time: '1'
+leave_time: '1'
+move_time_with_block: '1'
+move_time_without_block: '1'
+pick_up_time: '1'
